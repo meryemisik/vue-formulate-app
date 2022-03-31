@@ -64,7 +64,6 @@ export default {
 <style>
 .form {
  max-width: 70%;
- min-width: 800px;
   margin: auto;
   
 }
