@@ -1,6 +1,6 @@
 <template>
   <div class="form" >
-    <FormulateForm v-model="values"
+    <FormulateForm
     :schema="items" >
        
    </FormulateForm>
